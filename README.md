@@ -1,2 +1,2 @@
 # movie_recommendation
-A model which suggests movies to a user based on his taste preferences
+A content-based recommendation system was developed to suggest personalized movies, web -series, and songs based on user preferences. The system utilizes a content-based approach, examining the user likes and preferences to provide tailored recommendations. The front-end of the system was developed using the Streamlit library, ensuring a user-friendly interface for seamless interactions
